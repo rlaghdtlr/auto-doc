@@ -14,3 +14,7 @@
 # version4.0
 
 사용자 레이아웃 사이즈와 구성 변경
+
+# version5.0
+
+xlsx 모듈을 exceljs 모듈로 대체함 (취약점 수정)
