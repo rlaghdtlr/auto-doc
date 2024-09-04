@@ -5,19 +5,23 @@
 
 메일머지 기능 구현 완료
 
-## version2.0
+## version1.1
 
 태그 클릭 시 복사기능,
 진행바 구현 완료
 
-## version3.0
+## version1.2
 
 실시간 파일명 예시 구현 완료
 
-## version4.0
+## version1.3
 
 사용자 레이아웃 사이즈와 구성 변경
 
-## version5.0
+## version1.3.1
 
 xlsx 모듈을 exceljs 모듈로 대체함 (취약점 수정)
+
+## version 1.4
+
+구글 애널리틱스 설정
