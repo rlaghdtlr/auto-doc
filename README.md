@@ -1,24 +1,24 @@
 # 메일머지 사이트
 - 엑셀 시트와 워드 베이스파일 기반으로 워드 파일 생성 웹앱
 
-## version1.0
+## version 1.0
 
 메일머지 기능 구현 완료
 
-## version1.1
+## version 1.1
 
 태그 클릭 시 복사기능,
 진행바 구현 완료
 
-## version1.2
+## version 1.2
 
 실시간 파일명 예시 구현 완료
 
-## version1.3
+## version 1.3
 
 사용자 레이아웃 사이즈와 구성 변경
 
-## version1.3.1
+## version 1.3.1
 
 xlsx 모듈을 exceljs 모듈로 대체함 (취약점 수정)
 
